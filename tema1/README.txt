@@ -1,6 +1,6 @@
 // BOARI Ioana-Ruxandra 322CD
 
-            PCOM Tema 1 - Dataplane Router
+            Dataplane Router
 
     Am implementat subcerintele:
 - Procesul de dirijare
@@ -36,5 +36,3 @@ arborele binar de cautare pentru rute. Apoi se obtine adresa MAC a urmatorului
 hop din ruta si a interfetei asociate. Apoi, se actualizează adresele MAC ale
 surselor și destinației în header-ul Ethernet pentru a reflecta adresele corespunzătoare.
 In final, se trimite pachetul si se eliberează memoria alocată.
-
-    La rularea locala obtin: 70 pct
